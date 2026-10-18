@@ -1,0 +1,11 @@
+import { launch, FFMPEG } from './pw.mjs';
+import fs from 'fs';
+const b = await launch();
+const p = await b.newPage(); await p.goto('file://' + process.cwd() + '/index.html'); await p.evaluate(() => window.ready);
+const info = await p.evaluate(() => window.renderMusic());
+const size = 1 << 20, n = info.frames * 2, chunks = Math.ceil(n / size), parts = [];
+for (let k = 0; k < chunks; k++) parts.push(Buffer.from(await p.evaluate(([k, s]) => window.pcmChunk(k, s), [k, size]), 'base64'));
+const data = Buffer.concat(parts), h = Buffer.alloc(44);
+h.write('RIFF', 0); h.writeUInt32LE(36 + data.length, 4); h.write('WAVE', 8); h.write('fmt ', 12); h.writeUInt32LE(16, 16); h.writeUInt16LE(1, 20); h.writeUInt16LE(2, 22);
+h.writeUInt32LE(info.sr, 24); h.writeUInt32LE(info.sr * 4, 28); h.writeUInt16LE(4, 32); h.writeUInt16LE(16, 34); h.write('data', 36); h.writeUInt32LE(data.length, 40);
+fs.writeFileSync('audio/music.wav', Buffer.concat([h, data])); console.log('music.wav', (data.length / 4 / info.sr).toFixed(1), 's'); await b.close();

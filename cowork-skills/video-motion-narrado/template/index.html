@@ -1,0 +1,20 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>html,body{margin:0;background:#0A0A0A;overflow:hidden}canvas{display:block;width:100vw;height:100vh}</style>
+</head><body>
+<canvas id="c" width="1920" height="1080"></canvas>
+<script src="data.js"></script>
+<script src="engine.js"></script>
+<script src="modules.js"></script>
+<script src="custom.js"></script>
+<script src="scenes.js"></script>
+<script src="main.js"></script>
+<script src="audio.js"></script>
+<script>
+window.ready = (async () => {
+  const f = new FontFace('Inter', 'url(Inter-latin.woff2)', { weight: '100 900' });
+  await f.load(); document.fonts.add(f); await document.fonts.ready;
+  window.seek(0); return true;
+})();
+</script>
+</body></html>

@@ -1,0 +1,11 @@
+# Brief de design (base para o próximo vídeo)
+- Showreel de motion design: cada plano nasce do anterior (formas, tipo e cor se transformam; sem cortes nem fades).
+- 1 fonte (Geist, Inter ou display bold do Google Fonts); no máx. 3 cores + preto e branco; uma linguagem de câmera consistente.
+- Técnicas com tempo igual: tipografia cinética, morph de formas, momento 2D→3D, momento de dados/UI, título final.
+- Proibido: partículas, glows, lens flares, camera shake, RGB split, crossfades, gradientes genéricos, easing elástico, holds > 0,5 s, cara de template.
+- 120 BPM, algo acontece em todo tempo. Compasso 1 = gancho; 1 técnica por compasso; último compasso inteiro = momento mais forte; último meio compasso = título final; último quadro = primeiro (loop).
+- Build: 1 HTML 1920x1080, tudo calculado em window.seek(t) (sem animações CSS, timers ou estado); spring + easing exponencial como funções do tempo; blur segue velocidade/direção.
+- Trilha em código (OfflineAudioContext): kick em todo tempo, riser no último compasso, hit em cada troca de cena → WAV.
+- Render Playwright 60fps, 3 subframes por quadro + ffmpeg tmix (motion blur), mux do áudio.
+- Antes do render final: 1 quadro por tempo, revisar (poluição, fora do tempo, sobreposição, legibilidade).
+- Entrega: conceito + storyboard tempo a tempo, depois build sem perguntar, MP4 final.
