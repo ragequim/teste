@@ -1,0 +1,915 @@
+1
+00:00:01,000 --> 00:00:02,420
+Hoje eu vou te mostrar como é,
+
+2
+00:00:02,680 --> 00:00:03,160
+de verdade,
+
+3
+00:00:03,520 --> 00:00:05,500
+um dia na vida de um cirurgião sem
+
+4
+00:00:05,500 --> 00:00:05,900
+edição,
+
+5
+00:00:06,240 --> 00:00:06,920
+sem exagero,
+
+6
+00:00:07,220 --> 00:00:08,900
+só a rotina real de quem tá do
+
+7
+00:00:08,900 --> 00:00:10,000
+outro lado do bisturi.
+
+8
+00:00:10,740 --> 00:00:12,720
+Eu sou residente de cirurgia geral,
+
+9
+00:00:13,060 --> 00:00:14,880
+e meu dia começa às 5 da manhã,
+
+10
+00:00:15,100 --> 00:00:16,720
+quando eu acordo pra ir pro hospital,
+
+11
+00:00:17,120 --> 00:00:18,820
+que fica a 10 minutos de carro da
+
+12
+00:00:18,820 --> 00:00:19,300
+minha casa.
+
+13
+00:00:20,120 --> 00:00:22,240
+Se você tá pensando em seguir cirurgia,
+
+14
+00:00:22,480 --> 00:00:24,260
+ou só é curioso sobre como é essa
+
+15
+00:00:24,260 --> 00:00:25,160
+rotina na prática,
+
+16
+00:00:25,500 --> 00:00:26,240
+fica até o final,
+
+17
+00:00:26,640 --> 00:00:28,160
+porque eu vou contar o que ninguém te
+
+18
+00:00:28,160 --> 00:00:29,760
+fala antes de escolher esse caminho.
+
+19
+00:00:30,340 --> 00:00:32,500
+Se você curte esse tipo de conteúdo,
+
+20
+00:00:32,760 --> 00:00:34,660
+me ajuda dando aquela curtida ali embaixo.
+
+21
+00:00:35,540 --> 00:00:36,220
+Vamos nessa.
+
+22
+00:00:37,450 --> 00:00:38,650
+Antes de entrar na rotina,
+
+23
+00:00:38,930 --> 00:00:40,350
+deixa eu contextualizar rápido:
+
+24
+00:00:40,670 --> 00:00:43,390
+diferente de muitas residências de cirurgia geral aqui
+
+25
+00:00:43,390 --> 00:00:43,830
+no Brasil,
+
+26
+00:00:44,250 --> 00:00:46,270
+que são ligadas direto a uma universidade,
+
+27
+00:00:46,550 --> 00:00:49,170
+com internato e várias especialidades trabalhando junto,
+
+28
+00:00:49,470 --> 00:00:50,410
+a minha não é assim.
+
+29
+00:00:51,270 --> 00:00:53,010
+A gente é a turma que está retomando
+
+30
+00:00:53,010 --> 00:00:55,110
+a residência nesse hospital depois de um tempo
+
+31
+00:00:55,110 --> 00:00:58,230
+parado turmas antigas já formaram ótimos cirurgiões,
+
+32
+00:00:58,610 --> 00:01:00,690
+e agora somos eu e mais 3 colegas
+
+33
+00:01:00,690 --> 00:01:02,030
+reconstruindo isso do zero.
+
+34
+00:01:02,870 --> 00:01:04,670
+Sem preceptor acadêmico fixo,
+
+35
+00:01:04,910 --> 00:01:07,090
+a gente convive direto com os plantonistas de
+
+36
+00:01:07,090 --> 00:01:07,870
+cirurgia geral,
+
+37
+00:01:08,190 --> 00:01:10,010
+então a gente vê a rotina real de
+
+38
+00:01:10,010 --> 00:01:10,570
+um plantão,
+
+39
+00:01:10,770 --> 00:01:11,570
+sem filtro nenhum.
+
+40
+00:01:12,725 --> 00:01:13,965
+Assim que eu chego no hospital,
+
+41
+00:01:14,365 --> 00:01:16,025
+a primeira coisa que eu faço é dividir
+
+42
+00:01:16,025 --> 00:01:17,525
+os pacientes da enfermaria,
+
+43
+00:01:17,725 --> 00:01:19,905
+que no nosso serviço é mista tem paciente
+
+44
+00:01:19,905 --> 00:01:20,425
+clínico,
+
+45
+00:01:20,645 --> 00:01:21,245
+de ortopedia,
+
+46
+00:01:21,685 --> 00:01:23,165
+e de outras subespecialidades,
+
+47
+00:01:23,545 --> 00:01:24,825
+como cirurgia torácica,
+
+48
+00:01:25,125 --> 00:01:26,465
+urologia e ginecologia.
+
+49
+00:01:27,325 --> 00:01:29,465
+Hoje eu vou te mostrar especificamente como é
+
+50
+00:01:29,465 --> 00:01:31,065
+um dia no estágio da enfermaria,
+
+51
+00:01:31,245 --> 00:01:32,645
+que é quando eu fico junto com os
+
+52
+00:01:32,645 --> 00:01:35,145
+plantonistas cuidando dos pacientes internados.
+
+53
+00:01:36,065 --> 00:01:38,085
+Enquanto os plantonistas ainda não chegam,
+
+54
+00:01:38,325 --> 00:01:40,405
+eu já vou passando visita nos meus pacientes
+
+55
+00:01:40,405 --> 00:01:41,785
+de pós-operatório,
+
+56
+00:01:41,785 --> 00:01:43,865
+porque dependendo do estágio que eu tô rodando,
+
+57
+00:01:44,205 --> 00:01:46,625
+eu não consigo ficar muito tempo na enfermaria
+
+58
+00:01:46,845 --> 00:01:49,145
+às vezes já tenho cirurgia marcada logo de
+
+59
+00:01:49,145 --> 00:01:49,445
+manhã,
+
+60
+00:01:49,685 --> 00:01:51,925
+e preciso repassar tudo antes de entrar na
+
+61
+00:01:51,925 --> 00:01:52,245
+sala.
+
+62
+00:01:52,945 --> 00:01:54,425
+Quando os plantonistas chegam,
+
+63
+00:01:54,665 --> 00:01:56,025
+eu passo os casos pra eles:
+
+64
+00:01:56,445 --> 00:01:57,985
+conto a história de cada paciente,
+
+65
+00:01:58,305 --> 00:01:59,105
+o que já foi feito,
+
+66
+00:01:59,385 --> 00:02:00,265
+o que ainda falta.
+
+67
+00:02:01,125 --> 00:02:03,265
+Uma coisa interessante do nosso serviço:
+
+68
+00:02:03,525 --> 00:02:05,625
+normalmente é o cirurgião que viu o paciente
+
+69
+00:02:05,625 --> 00:02:07,445
+de manhã que acaba operando ele à tarde.
+
+70
+00:02:08,265 --> 00:02:09,085
+Mas às vezes,
+
+71
+00:02:09,405 --> 00:02:10,945
+na discussão entre os plantonistas,
+
+72
+00:02:11,325 --> 00:02:13,385
+a gente percebe que outro colega tem mais
+
+73
+00:02:13,385 --> 00:02:16,485
+experiência com aquele tipo de cirurgia específica porque
+
+74
+00:02:16,485 --> 00:02:18,705
+mesmo fazendo plantão de cirurgia geral,
+
+75
+00:02:19,065 --> 00:02:20,845
+alguns deles têm subespecialidade,
+
+76
+00:02:21,165 --> 00:02:24,025
+tipo proctologia ou cirurgia do aparelho digestivo.
+
+77
+00:02:24,645 --> 00:02:26,625
+Aí o caso passa pra mão de quem
+
+78
+00:02:26,625 --> 00:02:28,765
+tem mais bagagem naquilo.
+
+79
+00:02:28,765 --> 00:02:30,325
+E tem dia que a coisa não para
+
+80
+00:02:30,325 --> 00:02:32,765
+nem durante a cirurgia às vezes eu preciso
+
+81
+00:02:32,765 --> 00:02:35,405
+evoluir e prescrever um paciente da enfermaria estando
+
+82
+00:02:35,405 --> 00:02:37,445
+literalmente dentro do centro cirúrgico,
+
+83
+00:02:37,725 --> 00:02:38,785
+entre um caso e outro.
+
+84
+00:02:39,814 --> 00:02:40,114
+Agora,
+
+85
+00:02:40,414 --> 00:02:41,994
+a parte que todo mundo pergunta:
+
+86
+00:02:42,354 --> 00:02:44,154
+quando que a cirurgia realmente acontece.
+
+87
+00:02:45,234 --> 00:02:47,754
+As cirurgias de urgência normalmente entram à tarde,
+
+88
+00:02:48,054 --> 00:02:50,294
+porque de manhã o centro cirúrgico fica cheio
+
+89
+00:02:50,294 --> 00:02:51,354
+de cirurgia eletiva.
+
+90
+00:02:51,974 --> 00:02:55,054
+E o tempo varia bastante uma apendicectomia ou
+
+91
+00:02:55,054 --> 00:02:57,434
+colecistectomia mais simples pode levar 1 hora,
+
+92
+00:02:57,714 --> 00:03:00,534
+mas uma laparotomia exploradora mais complexa pode passar
+
+93
+00:03:00,534 --> 00:03:02,294
+de 4 a 5 horas de mesa.
+
+94
+00:03:03,074 --> 00:03:04,994
+A equipe na sala muda de acordo com
+
+95
+00:03:04,994 --> 00:03:05,794
+a complexidade:
+
+96
+00:03:06,074 --> 00:03:07,354
+sempre tem instrumentador,
+
+97
+00:03:07,354 --> 00:03:09,014
+circulante e anestesista,
+
+98
+00:03:09,274 --> 00:03:10,954
+mas o número de cirurgiões varia.
+
+99
+00:03:11,674 --> 00:03:12,994
+No início da residência,
+
+100
+00:03:13,314 --> 00:03:15,474
+a gente entrava sempre eu mais 2 cirurgiões;
+
+101
+00:03:15,754 --> 00:03:16,034
+hoje,
+
+102
+00:03:16,354 --> 00:03:17,394
+com mais experiência,
+
+103
+00:03:17,754 --> 00:03:19,514
+muitas vezes entro eu e só mais 1
+
+104
+00:03:19,514 --> 00:03:20,014
+cirurgião.
+
+105
+00:03:20,834 --> 00:03:21,634
+Como R1,
+
+106
+00:03:21,954 --> 00:03:24,134
+eu já participei de mais de 200 cirurgias,
+
+107
+00:03:24,474 --> 00:03:26,654
+e já fui cirurgião principal em mais de
+
+108
+00:03:26,654 --> 00:03:27,334
+20 delas.
+
+109
+00:03:28,114 --> 00:03:29,754
+E aqui vale destacar uma coisa:
+
+110
+00:03:30,154 --> 00:03:33,114
+a vídeolaparoscopia é um arsenal importantíssimo pro cirurgião
+
+111
+00:03:33,114 --> 00:03:33,414
+geral,
+
+112
+00:03:33,794 --> 00:03:35,814
+porque quando você tem dúvida diagnóstica,
+
+113
+00:03:36,094 --> 00:03:37,654
+ela te dá a visão que você precisa
+
+114
+00:03:37,994 --> 00:03:39,954
+e se durante a cirurgia você perceber que
+
+115
+00:03:39,954 --> 00:03:41,874
+precisa converter pra uma laparotomia,
+
+116
+00:03:42,194 --> 00:03:44,274
+você já está preparado pra fazer isso na
+
+117
+00:03:44,274 --> 00:03:44,514
+hora.
+
+118
+00:03:44,514 --> 00:03:46,774
+Pra definição diagnóstica,
+
+119
+00:03:47,014 --> 00:03:49,574
+a gente também conta com tomografia disponível no
+
+120
+00:03:49,574 --> 00:03:52,074
+próprio hospital às vezes demora pra sair,
+
+121
+00:03:52,394 --> 00:03:54,234
+mas é essencial pra definir a causa e
+
+122
+00:03:54,234 --> 00:03:55,614
+decidir qual técnica usar.
+
+123
+00:03:56,414 --> 00:03:58,674
+E em cirurgias com alto risco de sangramento,
+
+124
+00:03:59,094 --> 00:04:01,174
+a gente já reserva sangue no banco antes
+
+125
+00:04:01,174 --> 00:04:01,634
+de entrar,
+
+126
+00:04:01,934 --> 00:04:04,134
+além de garantir retaguarda de vaga na UTI.
+
+127
+00:04:05,212 --> 00:04:07,432
+Enquanto uma parte da equipe está em cirurgia,
+
+128
+00:04:07,772 --> 00:04:10,452
+os outros plantonistas continuam trabalhando em paralelo.
+
+129
+00:04:11,172 --> 00:04:14,512
+Nosso serviço tem porta aberta pra pacientes referenciados
+
+130
+00:04:14,832 --> 00:04:16,732
+chega gente que já fez um primeiro atendimento
+
+131
+00:04:16,732 --> 00:04:18,352
+em outro pronto-socorro da cidade,
+
+132
+00:04:18,672 --> 00:04:20,612
+com um abdômen agudo ou uma apendicite,
+
+133
+00:04:20,972 --> 00:04:23,032
+e é encaminhada pra gente avaliar se precisa
+
+134
+00:04:23,032 --> 00:04:23,572
+internar,
+
+135
+00:04:23,812 --> 00:04:24,752
+se precisa operar,
+
+136
+00:04:24,992 --> 00:04:25,332
+e quando.
+
+137
+00:04:26,112 --> 00:04:26,852
+Além disso,
+
+138
+00:04:27,172 --> 00:04:29,772
+a gente também dá parecer pra outras especialidades
+
+139
+00:04:30,152 --> 00:04:32,452
+às vezes a clínica médica quer nossa opinião
+
+140
+00:04:32,452 --> 00:04:35,492
+sobre um caso específico e acompanha pacientes na
+
+141
+00:04:35,492 --> 00:04:35,732
+UTI.
+
+142
+00:04:36,592 --> 00:04:37,932
+Se é algo mais urgente,
+
+143
+00:04:38,272 --> 00:04:40,132
+o plantonista larga o que tá fazendo na
+
+144
+00:04:40,132 --> 00:04:42,192
+enfermaria e vai direto pra UTI ajudar.
+
+145
+00:04:42,952 --> 00:04:45,452
+Tem situação de abdômen agudo vascular que a
+
+146
+00:04:45,452 --> 00:04:47,052
+gente não consegue operar de cara,
+
+147
+00:04:47,352 --> 00:04:50,212
+porque o paciente tá instável aí espera estabilizar
+
+148
+00:04:50,212 --> 00:04:52,212
+na UTI pra depois ir pra cirurgia.
+
+149
+00:04:52,792 --> 00:04:55,212
+E tem abdômen agudo obstrutivo mais grave,
+
+150
+00:04:55,552 --> 00:04:58,172
+que começa com tratamento conservador ali mesmo na
+
+151
+00:04:58,172 --> 00:04:58,492
+UTI,
+
+152
+00:04:58,812 --> 00:05:00,292
+e só depois de alguns dias é que
+
+153
+00:05:00,292 --> 00:05:01,592
+vai pro centro cirúrgico.
+
+154
+00:05:02,623 --> 00:05:04,363
+E a noite não é diferente em volume.
+
+155
+00:05:05,423 --> 00:05:07,743
+Praticamente todo dia chega uma vaga zero que
+
+156
+00:05:07,743 --> 00:05:10,283
+precisa ir pro centro cirúrgico ainda naquele dia.
+
+157
+00:05:10,283 --> 00:05:13,323
+Apendicite e abdome agudo inflamatório,
+
+158
+00:05:13,503 --> 00:05:15,403
+a gente costuma operar precocemente.
+
+159
+00:05:16,123 --> 00:05:18,003
+Já o abdome agudo obstrutivo,
+
+160
+00:05:18,283 --> 00:05:20,023
+dependendo da etiologia suspeita,
+
+161
+00:05:20,323 --> 00:05:22,583
+a gente opta primeiro por um tratamento conservador
+
+162
+00:05:22,583 --> 00:05:24,303
+antes de decidir pela cirurgia.
+
+163
+00:05:25,123 --> 00:05:25,763
+Fora isso,
+
+164
+00:05:26,043 --> 00:05:27,683
+a gente é chamado o tempo todo pela
+
+165
+00:05:27,683 --> 00:05:29,943
+enfermagem às vezes é coisa simples,
+
+166
+00:05:30,243 --> 00:05:32,623
+tipo uma medicação de uso contínuo que faltou
+
+167
+00:05:32,623 --> 00:05:33,263
+na prescrição,
+
+168
+00:05:33,643 --> 00:05:34,803
+uma disglicemia,
+
+169
+00:05:34,803 --> 00:05:36,243
+uma alteração leve de pressão.
+
+170
+00:05:36,763 --> 00:05:39,443
+Mas às vezes é instabilidade hemodinâmica,
+
+171
+00:05:39,443 --> 00:05:40,523
+ou até uma parada.
+
+172
+00:05:41,423 --> 00:05:43,243
+O plantão termina às 19 horas.
+
+173
+00:05:44,163 --> 00:05:46,323
+Se você é o plantonista de 24 horas,
+
+174
+00:05:46,663 --> 00:05:49,003
+você simplesmente continua até o outro dia.
+
+175
+00:05:49,763 --> 00:05:51,443
+Mas se o seu plantão é até as
+
+176
+00:05:51,443 --> 00:05:53,503
+19 horas e nesse horário você ainda tá
+
+177
+00:05:53,503 --> 00:05:54,603
+no meio de uma cirurgia,
+
+178
+00:05:54,983 --> 00:05:57,703
+os plantonistas da noite te rendem eles assumem
+
+179
+00:05:57,703 --> 00:05:59,403
+o procedimento pra você poder sair.
+
+180
+00:06:00,143 --> 00:06:01,583
+E a passagem de plantão,
+
+181
+00:06:01,843 --> 00:06:03,783
+com todas as pendências dos pacientes,
+
+182
+00:06:04,183 --> 00:06:05,183
+é feita pessoalmente,
+
+183
+00:06:05,503 --> 00:06:07,743
+às vezes reforçada num grupo com todos os
+
+184
+00:06:07,743 --> 00:06:08,303
+plantonistas,
+
+185
+00:06:08,723 --> 00:06:10,863
+pra ninguém perder nada importante na troca.
+
+186
+00:06:11,643 --> 00:06:13,583
+No fim de um plantão de 24 horas,
+
+187
+00:06:13,943 --> 00:06:14,963
+o cansaço é real,
+
+188
+00:06:15,243 --> 00:06:15,983
+físico e mental.
+
+189
+00:06:16,883 --> 00:06:19,443
+Os plantonistas da madrugada revezam os horários de
+
+190
+00:06:19,443 --> 00:06:21,623
+chamada entre eles pra conseguir descansar;
+
+191
+00:06:21,963 --> 00:06:23,503
+o residente não tem essa opção.
+
+192
+00:06:24,203 --> 00:06:26,763
+Então a gente aprende a aproveitar qualquer momento
+
+193
+00:06:26,763 --> 00:06:28,663
+de calmaria inclusive pra comer,
+
+194
+00:06:29,003 --> 00:06:30,903
+porque nunca se sabe quando vai dar tempo
+
+195
+00:06:30,903 --> 00:06:31,983
+pra próxima refeição.
+
+196
+00:06:32,763 --> 00:06:33,403
+Teve noite,
+
+197
+00:06:33,723 --> 00:06:35,163
+de plantão de 24 horas,
+
+198
+00:06:35,543 --> 00:06:36,803
+que eu operei até às 3,
+
+199
+00:06:37,123 --> 00:06:37,863
+4 da manhã.
+
+200
+00:06:38,895 --> 00:06:40,375
+E se tem uma coisa que eu aprendi
+
+201
+00:06:40,375 --> 00:06:41,015
+nesse processo,
+
+202
+00:06:41,355 --> 00:06:41,795
+é isso:
+
+203
+00:06:42,055 --> 00:06:44,375
+a escolha da sua residência de cirurgia geral
+
+204
+00:06:44,375 --> 00:06:46,395
+depende muito de um ponto específico.
+
+205
+00:06:46,995 --> 00:06:48,815
+Se você já sabe que vai só passar
+
+206
+00:06:48,815 --> 00:06:51,275
+pela geral pra depois seguir uma subespecialidade,
+
+207
+00:06:51,575 --> 00:06:53,595
+talvez valha a pena escolher um serviço onde
+
+208
+00:06:53,595 --> 00:06:56,555
+aquela subespecialidade seja forte mas que ainda assim
+
+209
+00:06:56,555 --> 00:06:58,415
+dê espaço pro residente de geral pôr a
+
+210
+00:06:58,415 --> 00:06:59,355
+mão nos procedimentos,
+
+211
+00:06:59,755 --> 00:07:01,375
+mesmo antes de chegar na sub.
+
+212
+00:07:02,195 --> 00:07:02,675
+Agora,
+
+213
+00:07:03,015 --> 00:07:04,755
+se o seu plano é sair da residência
+
+214
+00:07:04,755 --> 00:07:06,695
+já pronto pra assumir um plantão ou abrir
+
+215
+00:07:06,695 --> 00:07:07,475
+um consultório,
+
+216
+00:07:07,475 --> 00:07:09,675
+sem sentir que falta alguma coisa na sua
+
+217
+00:07:09,675 --> 00:07:10,255
+formação,
+
+218
+00:07:10,575 --> 00:07:12,175
+aí você quer um serviço que te dê
+
+219
+00:07:12,175 --> 00:07:13,895
+uma base sólida no que a gente chama
+
+220
+00:07:13,895 --> 00:07:16,315
+de arroz com feijão da cirurgia geral o
+
+221
+00:07:16,315 --> 00:07:17,215
+básico bem feito,
+
+222
+00:07:17,555 --> 00:07:19,895
+com volume suficiente pra você sair seguro.
+
+223
+00:07:20,695 --> 00:07:22,915
+Não existe escolha certa ou errada aqui,
+
+224
+00:07:23,195 --> 00:07:24,935
+só depende de onde você quer chegar.
+
+225
+00:07:25,735 --> 00:07:27,835
+E se você tiver alguma dúvida específica,
+
+226
+00:07:27,995 --> 00:07:29,875
+ou algum assunto que você gostaria que eu
+
+227
+00:07:29,875 --> 00:07:31,355
+abordasse nos próximos vídeos,
+
+228
+00:07:31,755 --> 00:07:34,355
+deixa aqui embaixo nos comentários eu sou todo
+
+229
+00:07:34,355 --> 00:07:34,755
+ouvidos.
