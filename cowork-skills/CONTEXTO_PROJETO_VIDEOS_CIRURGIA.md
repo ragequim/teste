@@ -1,7 +1,7 @@
 # Contexto do projeto: vídeos de YouTube de cirurgia geral
 
 Arquivo de passagem para continuar o trabalho no Claude Cowork (projeto "vídeos para YT de cirurgia geral").
-Coloque este arquivo na pasta do projeto ou nas instruções do projeto e instale a skill **video-motion-narrado**.
+Coloque este arquivo na pasta do projeto ou nas instruções do projeto e instale a skill **videos-cirurgia-geral** (substitui a antiga `video-motion-narrado`).
 
 ## Quem é o criador
 Residente R1 de cirurgia geral no Hospital Municipal Dr. Odelmo Leão Carneiro (Uberlândia‑MG).
@@ -16,7 +16,7 @@ Conversa sempre em português do Brasil.
 
 Arquivos (vídeos, .srt, cortes verticais): repositório GitHub `ragequim/teste`, branch `claude/video-residencia-municipal`, pasta `videos/`.
 
-## Estilo aprovado ("gostei desse jeito") → skill `video-motion-narrado`
+## Estilo aprovado ("gostei desse jeito") → skill `videos-cirurgia-geral`
 - Motion design em fundo preto `#0A0A0A`, fonte única **Inter**, cores: verde‑azulado `#19C39D` (principal), coral `#FF5A47` (alerta), âmbar `#FFB627` (tempo/noite), branco `#F4F2EC`.
 - Conceito: **um único fio (de sutura) que nunca sai da tela e vira cada cena**; cada cena nasce da anterior; último quadro = primeiro (loop).
 - 120 BPM, trocas de cena na batida; trilha gerada em código (kick, baixo, pad, hits nas trocas, riser no final), abaixada sob a voz.
@@ -45,5 +45,7 @@ Arquivos (vídeos, .srt, cortes verticais): repositório GitHub `ragequim/teste`
 (pós‑upload), `livros-cirurgia-geral` (Zollinger/Skandalakis/Sabiston para conteúdo técnico).
 
 ## Próximo vídeo (como pedir)
-"Faz um vídeo no mesmo estilo do 'Um dia na vida' com este roteiro: …" → a skill monta conceito + storyboard,
-gera a prévia, espera aprovação, renderiza, corta os shorts e entrega descrição, tags e thumbnail.
+Qualquer tema de cirurgia geral (técnica, doença, anatomia, residência, prova):
+- Com roteiro: "Faz um vídeo no mesmo estilo com este roteiro: …"
+- Só com tema: "Faz um vídeo sobre colecistectomia videolaparoscópica" → a skill escreve o roteiro (sem inventar dados), mostra para aprovar,
+  monta conceito + storyboard, gera a prévia, espera aprovação, renderiza, corta os shorts e entrega descrição, tags e thumbnail.

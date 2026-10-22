@@ -7,6 +7,7 @@
 <script src="engine.js"></script>
 <script src="modules.js"></script>
 <script src="custom.js"></script>
+<script src="modules_cg.js"></script>
 <script src="scenes.js"></script>
 <script src="main.js"></script>
 <script src="audio.js"></script>
@@ -14,6 +15,7 @@
 window.ready = (async () => {
   const f = new FontFace('Inter', 'url(Inter-latin.woff2)', { weight: '100 900' });
   await f.load(); document.fonts.add(f); await document.fonts.ready;
+  await window.preloadImages(typeof IMAGES !== 'undefined' ? IMAGES : []);
   window.seek(0); return true;
 })();
 </script>

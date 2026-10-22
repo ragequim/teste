@@ -1,6 +1,7 @@
 'use strict';
 // Configuração de cenas do vídeo. Um id por âncora de anchors.py + 'end' (título final = 1º quadro, fecha o loop).
-// Catálogo de módulos e parâmetros: references/modulos.md. Exemplo completo: references/exemplo_scenes_um_dia_na_vida.js
+// Receitas por tipo de vídeo: references/temas.md · Módulos: references/modulos.md · Exemplo: references/exemplo_scenes_um_dia_na_vida.js
+// Figuras/fotos: coloque em figs/ e liste aqui: const IMAGES = ['figs/arquivo.png'];
 const T = C.teal, R = C.coral, A = C.amber, F = C.fg;
 const TITLE = { lines: ['TÍTULO DO', 'VÍDEO AQUI'], colors: [F, T], small: 'SUBTÍTULO CURTO', size: 140 };
 const CFG = {

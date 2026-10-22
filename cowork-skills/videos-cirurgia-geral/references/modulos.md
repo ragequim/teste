@@ -26,7 +26,19 @@ Cores: `T` verde-azulado (principal), `R` coral (alerta/urgência), `A` âmbar (
 | `flow` | A → B rápido (com rastro de movimento) | `a`, `b`, `bColor`, `label`, `labelColor` |
 | `lanes` | trabalho em paralelo, escalas, revezamento | `lanes[{label,color,blocks[[a,b]],tag}]`, `scroll`, `speed` |
 
-## Específicos (criados para o vídeo de cirurgia — reutilize ou adapte)
+## Conteúdo técnico de cirurgia geral (modules_cg.js)
+
+| Módulo | Use para | Parâmetros |
+|---|---|---|
+| `organ` | anatomia, local da doença | `organs: [[nome, cor, dx, dy, escala], ...]` ou `organ: 'nome'`; nomes: `vesicula`, `apendice`, `figado`, `estomago`, `colon`, `hernia`, `intestino`, `pancreas`, `rim`; `labels: [[texto, x, y, cor], ...]` (x,y relativos ao centro do órgão); `title`, `cx`, `scale` |
+| `steps` | passo a passo de técnica, conduta, protocolo | `items[]` (até 7), `active` (destaca 1 passo), `title`, `titleColor` |
+| `compare` | A × B (vídeo × aberta, indicação × contraindicação, pegadinha × resposta) | `left/right: {title, items[], color, icon}`, `title` |
+| `define` | conceito-chave, definição, critério | `term`, `text` (quebra linha sozinho), `head`, `color`, `size` |
+| `image` | figura de livro, foto, exame | `src` (declare também em `const IMAGES = [...]` no scenes.js), `caption`, `source` (fonte), `title`, `w`, `h` |
+
+Para adicionar um órgão: crie `ORGANS.nome = (cor) => { ...desenho com ctx centrado em 0,0 ... }` em `modules_cg.js`.
+
+## Específicos (criados para os vídeos de residência — reutilize ou adapte)
 
 | Módulo | O que mostra |
 |---|---|
