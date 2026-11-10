@@ -1,0 +1,9 @@
+# Binário do Impeccable baixado na primeira execução
+.claude/skills/impeccable/scripts/bin/
+.impeccable/cache/
+
+# Saídas de verificação da Taste Skill
+.taste-skill/
+
+# Playwright MCP
+.playwright-mcp/
